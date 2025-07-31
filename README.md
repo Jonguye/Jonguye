@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Jo Nguyen
 # 💫 About Me:
-I’m a data analyst with a passion for turning complex data into actionable insights. Right now, I’m working on a credit card customer churn model as a side project at work. I love tackling projects that push me to learn and apply emerging AI techniques in practical ways. I’m especially focused on bridging the gap between notebooks and real-world deployment—solving real problems, end to end.<br><br>💬 Ask Me About<br>Self-improvement and running<br><br>⚡ Fun Fact<br>In my senior year of high school, I biked from San Francisco to LA during summer break—right when the El Niño storm hit. My best friend and I pushed through and made it all the way!<br><br>
+I’m a data analyst with a passion for turning complex data into actionable insights. Right now, I’m working on a credit card customer churn model as a side project at work.I enjoy tackling projects that push me to learn and apply practical AI methods.
+I’m especially interested in opportunities where I can use my data science skills to solve real-world problems—from building models in notebooks to deploying them in production environments..<br><br>💬 Ask Me About<br>Self-improvement and running<br><br>⚡ Fun Fact<br>In my senior year of high school, I biked from San Francisco to LA during summer break—right when the El Niño storm hit. My best friend and I pushed through and made it all the way!<br><br>
 
 
 ## 🌐 Socials:
